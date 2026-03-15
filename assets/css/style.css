@@ -539,7 +539,7 @@ strong {
   position: relative;
   overflow: hidden;
   padding-top: 330px;
-  padding-bottom: 330px;
+  padding-bottom: 380px;
 }
 
 @media screen and (min-width: 991px) {
